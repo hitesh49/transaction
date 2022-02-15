@@ -1,0 +1,18 @@
+.footer{
+    width: 100%;
+    background:#000000;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    
+  
+}
+.footer ul{
+    display: flex;
+    /* margin: 0 auto; */
+    /* max-width: 960px; */
+    justify-content: center;
+    align-items: center;
+}
+.footer ul li{
+    color: #f1f1ff;
+}
